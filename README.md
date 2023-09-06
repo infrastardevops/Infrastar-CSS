@@ -31,7 +31,7 @@ blue: #0F274C
 Most notable changes can be found in navbar elements and buttons, please see the attached HTML template page. If you need a new class added or beleive something should be changed then please email me.
 
 ## CDN
-Alternatively, you can access the latest CSS from here:
-```
-TBU
+Alternatively, you can access the latest CSS CDN from here:
+```html
+<link href="https://raw.githubusercontent.com/infrastardevops/Infrastar-CSS/main/infrastar_bootstrap%405.3.1.min.css" rel="stylesheet">
 ```
